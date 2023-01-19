@@ -1,0 +1,41 @@
+* {
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: red;
+    width: 300px;
+}
+
+/** Esto es un comentario dentro de un documento CSS
+*/
+h1 {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 30px;
+    font-weight: bold;
+    color: grey;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi_parrafo {
+    color: violet;
+    font-size: 23px;
+    border: 1px solid orange;
+}
+
+.estaesmiclase {
+    font-weight: bold;
+    color: brown;
+}
+
+section h1 {
+    font-weight: 40px;
+}
